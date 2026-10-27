@@ -25,7 +25,8 @@ This is an advanced AI-powered consumer insights platform that analyzes Amazon r
 
 1. **Clone the repository**:
    ```bash
-   cd ai_consumer_insights
+   git clone https://github.com/aimiwamy03/ai-consumer-insights.git
+   cd ai-consumer-insights
    ```
 
 2. **Install dependencies**:
@@ -148,3 +149,7 @@ This platform provides:
 ---
 
 **Built with ❤️ for MasterClass Consumer Insights Team**
+
+## Acknowledgments
+
+Built around the structure of the [Amazon Reviews 2023](https://github.com/hyp1231/AmazonReviews2023) dataset (McAuley Lab, UCSD). The demo uses generated sample reviews in that format.
